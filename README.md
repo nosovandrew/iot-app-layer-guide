@@ -30,14 +30,14 @@
 * [Сравнение протоколов](/comparative.md)
 * [Подбор оптиамльного решения](/selection.md)
 * Характеристики протоколов
-  * [MQTT](/mqtt/overview-mqtt.md)
-  * [MQTT-SN](/mqtt/overview-mqttsn.md)
-  * [AMQP](/mqtt/overview-amqp.md)
-  * [CoAP](/mqtt/overview-coap.md)
-  * [HTTP](/mqtt/overview-http.md)
-  * [OPC UA](/mqtt/overview-opcua.md)
-  * [DDS](/mqtt/overview-dds.md)
-  * [XMPP](/mqtt/overview-xmpp.md)
+  * [MQTT](mqtt/overview-mqtt.md)
+  * [MQTT-SN](mqtt/overview-mqttsn.md)
+  * [AMQP](amqp/overview-amqp.md)
+  * [CoAP](coap/overview-coap.md)
+  * [HTTP](http/overview-http.md)
+  * [OPC UA](opcua/overview-opcua.md)
+  * [DDS](dds/overview-dds.md)
+  * [XMPP](xmpp/overview-xmpp.md)
 
 ## Контактная информация
 | Автор | Телеграм | Почта |
