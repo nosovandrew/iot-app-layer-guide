@@ -39,7 +39,7 @@
 
 ## Окружение для реализации демонстрационных систем (следуя шагам в руководстве)
 
-#####Аппаратное обеспечение:
+##### Аппаратное обеспечение:
 * компьютер под управлением ОС Mac OS (протестировано), либо Linux;
 * одноплатный ПК Raspberry Pi (протестирован Raspberry Pi 1 Model B);
 * микроконтроллеры фирмы Espressif:
@@ -51,7 +51,7 @@
   * [Arduino IDE](https://www.arduino.cc/en/software)
   * [ESP-IDF (ESP32)](https://github.com/espressif/esp-idf)
   * [PlatformIO (расширение VS Code)](https://platformio.org)
-  * ESP8266_RTOS_SDK
+  * [ESP8266_RTOS_SDK](https://github.com/espressif/ESP8266_RTOS_SDK)
   * Esoruino (JS)
   * NodeMCU PyFlasher
 * Дополнительное ПО:
