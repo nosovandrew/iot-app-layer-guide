@@ -14,7 +14,7 @@
 
 ### Процесс обмена данными (QoS 0) представлен на рисунке:
 
-![MQTT Exchange Paradigm](../media/mqtt/simple-exchange.png)
+<img src="../media/mqtt/simple-exchange.png" alt="MQTT Exchange Paradigm" width="80%" />
 
 Обмен происходит при помощи специально определенных типов сообщений (всего 15 видов), каждый тип выполняет опредленную функцию и отвечает за специфичную модель поведения системы. 
 
