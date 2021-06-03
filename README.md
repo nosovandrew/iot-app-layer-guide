@@ -1,8 +1,8 @@
 # Руководство по выбору оптимальной технологической платформы для IoT-систем в конкретных проектах
 
 ## Навигация
-* [Сравнение протоколов](/comparative.md)
-* [Подбор оптиамльного решения](/selection.md)
+* [Сравнение протоколов](/comparative.md) INPROGRESS&#x274C;
+* [Подбор оптиамльного решения](/selection.md) INPROGRESS&#x274C;
 * Характеристики протоколов
   * [MQTT](mqtt/overview-mqtt.md)
   * [MQTT-SN](mqtt/overview-mqttsn.md)
