@@ -3,15 +3,31 @@
 ## Навигация
 * [Сравнение протоколов](/comparative.md) INPROGRESS&#x274C;
 * [Подбор оптиамльного решения](/selection.md) INPROGRESS&#x274C;
-* Характеристики протоколов
-  * [MQTT](mqtt/overview-mqtt.md)
-  * [MQTT-SN](mqtt/overview-mqttsn.md)
-  * [AMQP](amqp/overview-amqp.md)
-  * [CoAP](coap/overview-coap.md)
-  * [HTTP](http/overview-http.md)
-  * [OPC UA](opcua/overview-opcua.md)
-  * [DDS](dds/overview-dds.md)
-  * [XMPP](xmpp/overview-xmpp.md)
+* Протоколы:
+  * MQTT:
+    * [Характеристика](mqtt/overview-mqtt.md)
+    * [Демо](mqtt/demo/README.md)
+  * MQTT-SN:
+    * [Характеристика](mqtt/overview-mqttsn.md)
+    * [Демо](mqtt/demo-sn/README.md)
+  * AMQP
+    * [Характеристика](amqp/overview-mqtt.md)
+    * [Демо](amqp/demo/README.md)
+  * CoAP
+    * [Характеристика](coap/overview-mqtt.md)
+    * [Демо](coap/demo/README.md)
+  * HTTP
+    * [Характеристика](http/overview-mqtt.md)
+    * [Демо](http/demo/README.md)
+  * OPC UA
+    * [Характеристика](opcua/overview-mqtt.md)
+    * [Демо](opcua/demo/README.md)
+  * DDS
+    * [Характеристика](dds/overview-mqtt.md)
+    * [Демо](dds/demo/README.md)
+  * XMPP
+    * [Характеристика](xmpp/overview-mqtt.md)
+    * [Демо](xmpp/demo/README.md)
 
 ## Описание разработки
 Данный инстрмент (руководство) освещает вопросы, связанные с подбором и реализацией оптимальной технологической платформы для IoT-систем в конкретных проектах, обладающих определенным списком задач и требований.
