@@ -17,3 +17,9 @@
 | AMQP+MQTT | 4/4             | TCP       | Бинарный                | -                | Pub/Sub          | Client/Broker                                    | Client2Server, Server2Server | QoS 0, 1                    | TLS, SASL?                      | 1/4                  |
 | XMPP+MQTT | 3/4             | TCP       | Бинарный                | 2-4              | Pub/Sub          | Client/Server                                    | Client2Server                | ?                           | TLS, SASL?                      | 2/4                  |
 
+## Сравнительный анализ протоколов
+
+### Графики
+
+
+[:arrow_left: На главную](/README.md)
