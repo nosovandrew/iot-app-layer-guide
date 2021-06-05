@@ -11,22 +11,22 @@
     * [Характеристика](mqtt/overview-mqttsn.md)
     * [Демо](mqtt/demo-sn/README.md)
   * AMQP
-    * [Характеристика](amqp/overview-mqtt.md)
+    * [Характеристика](amqp/overview-amqp.md)
     * [Демо](amqp/demo/README.md)
   * CoAP
-    * [Характеристика](coap/overview-mqtt.md)
+    * [Характеристика](coap/overview-coap.md)
     * [Демо](coap/demo/README.md)
   * HTTP
-    * [Характеристика](http/overview-mqtt.md)
+    * [Характеристика](http/overview-http.md)
     * [Демо](http/demo/README.md)
   * OPC UA
-    * [Характеристика](opcua/overview-mqtt.md)
+    * [Характеристика](opcua/overview-opcua.md)
     * [Демо](opcua/demo/README.md)
   * DDS
-    * [Характеристика](dds/overview-mqtt.md)
+    * [Характеристика](dds/overview-dds.md)
     * [Демо](dds/demo/README.md)
   * XMPP
-    * [Характеристика](xmpp/overview-mqtt.md)
+    * [Характеристика](xmpp/overview-xmpp.md)
     * [Демо](xmpp/demo/README.md)
 
 ## Описание разработки
