@@ -23,26 +23,26 @@
 
 Ранжирование протоколов прикалдного уровня относительно минимального "веса" единицы передаваемых данных и потребления ресурсов оборудования:
 
-![Msg Length/Power consumption](../media/comparative/power.png)
+![Msg Length/Power consumption](media/comparative/power.png)
 
 Относительно реализации механизмов надежности и безовасности:
 
-![Reliability/Security](../media/comparative/relisec.png)
+![Reliability/Security](media/comparative/relisec.png)
 
 Процесс разработки системы (сложность, затраты времени и ресурсов) и ориентация протокола на задачи и специфику IoT-систем:
 
-![Dev complexity/IoT orientation](../media/comparative/iotorient.png)
+![Dev complexity/IoT orientation](media/comparative/iotorient.png)
 
 Популярность протокола среди IoT-систем (сообщество разработчиков, количество успешных проектов) и реализации протокола (разнообразие, функционал, поддержка):
 
-![Popularity/Implementations](../media/comparative/impl.png)
+![Popularity/Implementations](media/comparative/impl.png)
 
 Документирование протокола и совместимость с срзличными программными и аппаратными платформами (на примере окружения, представленного на главной странице руководства):
 
-![Documentation/Interconnection](../media/comparative/aopo.png)
+![Documentation/Interconnection](media/comparative/aopo.png)
 
 Размещение протоколов по типовым зонам сети IoT относительно оптимальности использования:
 
-![Best place in IoT network](../media/comparative/netplace.png)
+![Best place in IoT network](media/comparative/netplace.png)
 
 [:arrow_left: На главную](/README.md)
