@@ -42,26 +42,26 @@
 
 Ранжирование протоколов прикалдного уровня относительно минимального "веса" единицы передаваемых данных и потребления ресурсов оборудования:
 
-![Msg Length/Power consumption](media/comparative/power.png)
+<img src="media/comparative/power.png" alt="Msg Length/Power consumption" width="60%" />
 
 Относительно реализации механизмов надежности и безовасности:
 
-![Reliability/Security](media/comparative/relisec.png)
+<img src="media/comparative/relisec.png" alt="Reliability/Security" width="60%" />
 
 Процесс разработки системы (сложность, затраты времени и ресурсов) и ориентация протокола на задачи и специфику IoT-систем:
 
-![Dev complexity/IoT orientation](media/comparative/iotorient.png)
+<img src="media/comparative/iotorient.png" alt="Dev complexity/IoT orientation" width="60%" />
 
 Популярность протокола среди IoT-систем (сообщество разработчиков, количество успешных проектов) и реализации протокола (разнообразие, функционал, поддержка):
 
-![Popularity/Implementations](media/comparative/impl.png)
+<img src="media/comparative/impl.png" alt="Popularity/Implementations" width="60%" />
 
 Документирование протокола и совместимость с срзличными программными и аппаратными платформами (на примере окружения, представленного на главной странице руководства):
 
-![Documentation/Interconnection](media/comparative/aopo.png)
+<img src="media/comparative/aopo.png" alt="Documentation/Interconnection" width="60%" />
 
 Размещение протоколов по типовым зонам сети IoT относительно оптимальности использования:
 
-![Best place in IoT network](media/comparative/netplace.png)
+<img src="media/comparative/netplace.png" alt="Best place in IoT network" width="60%" />
 
 [:arrow_left: На главную](/README.md)
