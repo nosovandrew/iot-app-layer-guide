@@ -31,7 +31,7 @@
 
 **Документация** по большей степени находится на хорошем уровне, что является немаловажным достоинством, учитывая сложность протокола
 
-Список реализаций:
+## Список реализаций:
 * [OpenDDS](https://opendds.org);
 * [RTI](https://github.com/rticommunity);
 * [eProsima](https://github.com/eProsima):
@@ -39,6 +39,7 @@
   * [основная реализация Fast-DDS](https://github.com/eProsima/Fast-DDS);
   * [готовый клиент ESP8266](https://github.com/AmarNathH/Micro-XRCE-DDS-Client-ESP8266);
 * [The Robot Operating System (ROS) v2](https://docs.ros.org/en/foxy/index.html);
-  * [ROS2 Implementation for microcontrollers](https://micro.ros.org).
+  * [ROS2 Implementation for microcontrollers](https://micro.ros.org);
+  * [ROS2 Huge Implementation List](https://github.com/fkromer/awesome-ros2).
 
 [:arrow_left: На главную](/README.md)
