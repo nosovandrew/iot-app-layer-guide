@@ -42,7 +42,7 @@
    2. Проходим путь ```File > Preferences > Additional Boards Manager```  и в поле ссылок вствляем ```http://arduino.esp8266.com/stable/package_esp8266com_index.json```
    3. Проходим ```Tools > Board menu``` и выбираем нужную версию аппаратного обеспечения ```ESP8266 Boards > Generic ESP8266 Module```
 3. Установка клиентской библиотеки библиотеки ([подробная инструкция по установке](https://github.com/marvinroger/async-mqtt-client/blob/master/docs/1.-Getting-started.md#installing-asyncmqttclient))
-4. Копируем у себе и открываем в Arduino IDE [файл с кодом](mqtt_cli_qos012_esp8266.ino), заменяем праметры сети (```WIFI_SSID, WIFI_PASSWORD, MQTT_HOST```) на собственные, компилируем и загружаем в ESP8266
+4. Копируем к себе и открываем в Arduino IDE [файл с кодом](mqtt_cli_qos012_esp8266.ino), заменяем праметры сети (```WIFI_SSID, WIFI_PASSWORD, MQTT_HOST```) на собственные, компилируем и загружаем в ESP8266
 
 #### MQTT-клиент (подписчик) на базе ПК
 
