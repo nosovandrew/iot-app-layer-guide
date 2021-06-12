@@ -2,7 +2,7 @@
 
 ## Навигация
 * [Сравнение протоколов](/comparative.md)
-* [Подбор оптиамльного решения](/selection.md) INPROGRESS&#x274C;
+* [Подбор оптиамльного решения](/selection.md) &#x274C;
 * Протоколы:
   * MQTT:
     * [Характеристика](mqtt/overview-mqtt.md)
